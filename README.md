@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **React, Serverless, more DevOps**
 
+- 📚 I'm Proficient in **Angular and .NET**
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
